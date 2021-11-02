@@ -199,7 +199,7 @@ git clone https://github.com/An0nUD4Y/blackeye.git ~/HanterX/Tools
 sleep 2
 clear
 echo "Pembuat Tools= }An0nUD4Y{" | lolcat
-cd ~/HanterX/Tools/blackeye
+cd /Tools/blackeye
 chmod +x blackeye.sh
 bash ./blackeye.sh
 fi
@@ -227,7 +227,7 @@ git clone https://github.com/AngelSecurityTeam/Cam-Hackers ~/HanterX/Tools
 sleep 2
 clear
 echo "Pembuat Tools= }An0nUD4Y{" | lolcat
-cd ~/HanterX/Tools/Cam-Hackers
+cd /Tools/Cam-Hackers
 python3 cam-hackers.py
 fi
 
