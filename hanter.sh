@@ -64,7 +64,7 @@ sleep 0.1
 clear
 echo "Cek Tools"
 apt install -y lolcat
-apy install -y toilet
+apt install -y toilet
 apt install -y figlet
 apt install -y bash
 sleep 1
