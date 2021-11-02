@@ -195,11 +195,11 @@ echo "***********************$NM*********************************"|lolcat
 sleep 1
 echo "Cek Tools" | lolcat
 apt install -y git
-git clone https://github.com/An0nUD4Y/blackeye.git ~/HanterX/Tools
+git clone https://github.com/An0nUD4Y/blackeye.git 
 sleep 2
 clear
 echo "Pembuat Tools= }An0nUD4Y{" | lolcat
-cd /Tools/blackeye
+cd blackeye
 chmod +x blackeye.sh
 bash ./blackeye.sh
 fi
@@ -223,11 +223,11 @@ apt install -y git
 apt install -y python3
 pip3 install requests
 pip3 install colorama
-git clone https://github.com/AngelSecurityTeam/Cam-Hackers ~/HanterX/Tools
+git clone https://github.com/AngelSecurityTeam/Cam-Hackers 
 sleep 2
 clear
 echo "Pembuat Tools= }An0nUD4Y{" | lolcat
-cd /Tools/Cam-Hackers
+cd Cam-Hackers
 python3 cam-hackers.py
 fi
 
